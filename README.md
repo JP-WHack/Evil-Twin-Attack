@@ -303,7 +303,6 @@ Evil Twin 攻撃は多くの国で違法です。このツールは以下の条�
 ---
 
 <div align="center">
-
-*ネットワークセキュリティ研究のための教育ツール*
-
+  <sub><i>ネットワークセキュリティ研究のための教育ツール</i></sub><br>
+  <sub>© 2026 <a href="https://github.com/JP-WHack">JP-WHack</a></sub>
 </div>

